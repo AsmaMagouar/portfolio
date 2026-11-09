@@ -1,0 +1,60 @@
+.card{
+    border: 10ps solid brown;
+padding: 50px;
+width: 350px;
+margin:  50px auto;
+border-radius: 10px;
+box-shadow: 10px gray;
+}
+img{
+border-radius: 10px;
+
+}
+#title{
+
+    color: rgb(174, 63, 63);
+    text-align: center;
+
+}
+.city{
+    text-align: center;
+
+}
+.h2{
+    color: rgb(173, 45, 45);
+    text-align: center;
+}
+body{
+    background: #f2f4f8; display: flex;justify-content: center;
+    border: 10px;
+}
+.dish{
+    display: flex;
+    justify-content: space-between;
+    background: #e3cedb;
+    border-radius: 8px;
+}
+.dish span{ 
+
+color: #d51c1c;
+
+}
+.btn{
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 9px;
+}
+a{
+    text-align: center;
+    color: aliceblue;
+    background: #bd1515;
+    border-radius: 50px;
+}
+.info{
+    text-align: center;
+}
+
+
+
+
+

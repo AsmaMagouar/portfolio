@@ -1,0 +1,49 @@
+header{
+    text-align: center;
+}
+.H1{
+    background-color: rgb(222, 114, 114);
+    color: white;
+    margin: 0%;
+}
+nav{
+background: black;
+font-size: 10px;
+gap: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 10px ; 
+    padding: 5px 5px;
+}
+h3{
+    color: rgb(210, 39, 39);
+    
+}
+.carte{
+    margin: 20px auto;
+    border: 1px solid black;
+    padding: 20px;
+    width: 300px;
+    background-color: white;
+}
+body{
+    background-color: antiquewhite;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+h2{color: rgb(225, 70, 70);
+text-align: center;}
+footer{
+    color: rgb(251, 249, 249);
+    background-color: black;
+    border-radius: 20px;
+    margin: 0px 0px;
+    text-align: center;
+}
+h3{
+    color: rgb(223, 78, 78);
+}

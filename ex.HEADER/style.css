@@ -1,0 +1,10 @@
+
+h1{color: hsl(from color h s l);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+grid-template-columns: max-content;
+background-color: blueviolet;
+}
+#no{color: cadetblue;}
+#jiji{ color: rgb(179, 160, 196);}
+
